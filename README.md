@@ -40,13 +40,13 @@ training:
   
 Data Normalization:
 
-     generation_mean=0.959
+     generation_mean=0.7808
 
-     Consumption_mean=1.596
+     Consumption_mean=1.4447
 
-     generation_std=1.414
+     generation_std=1.1422
 
-     Consumption_std=1.228
+     Consumption_std=1.1166
 
 
   
