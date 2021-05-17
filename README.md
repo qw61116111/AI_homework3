@@ -34,9 +34,21 @@ training:
   
 訓練參數:
 
-  batch_size=32
+     batch_size=32
+
+     loss function=RMSE
   
-  loss function=RMSE
+Data Normalization:
+
+     generation_mean=0.959
+
+     Consumption_mean=1.596
+
+     generation_std=1.414
+
+     Consumption_std=1.228
+
+
   
 ---------------------預測手法----------------------
 
